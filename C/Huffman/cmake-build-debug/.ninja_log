@@ -1,0 +1,8 @@
+# ninja log v5
+1	80	7264982098355921	build.ninja	e5c37f11592a5976
+2	413	7264978516444820	CMakeFiles/Huffman.dir/Huffman.cpp.obj	8afccdda9b18e06f
+413	476	7264978517043218	Huffman.exe	f7fe3554045fd9fc
+2	573	7265585037375065	CMakeFiles/Huffman.dir/Huffman.cpp.obj	8afccdda9b18e06f
+573	660	7265585038224228	Huffman.exe	f7fe3554045fd9fc
+2	408	7265600115018077	CMakeFiles/Huffman.dir/Huffman.cpp.obj	8afccdda9b18e06f
+409	480	7265600115706236	Huffman.exe	f7fe3554045fd9fc
