@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug-MinGW" ENABLED="true" CONFIG_NAME="Debug" TOOLCHAIN_NAME="MinGW" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d59fe755-e38d-4e22-a51d-18262fb8f192" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/001/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/001/.idea/001.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/001/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/001/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/001/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/001/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/001/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/001/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/001/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/001/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/001/cmake-build-debug/CMakeFiles/3.27.8/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/001/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/001/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/001/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/001/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/001/main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/002/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/002/.idea/002.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/002/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/002/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/002/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/002/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/002/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/002/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/002/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/002/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/002/cmake-build-debug/CMakeFiles/3.27.8/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/002/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/002/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/002/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/002/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/002/main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/003/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/003/.idea/003.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/003/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/003/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/003/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/003/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/003/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/003/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/003/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/003/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/003/cmake-build-debug/CMakeFiles/3.27.8/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/003/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/003/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/003/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/003/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/003/main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/004/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/004/.idea/004.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/004/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/004/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/004/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/004/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/004/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/004/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/004/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/004/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/004/cmake-build-debug/CMakeFiles/3.27.8/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/004/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/004/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/004/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/004/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/004/main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/005/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/005/.idea/005.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/005/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/005/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/005/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/005/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/005/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/005/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/005/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/005/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/005/cmake-build-debug/CMakeFiles/3.27.8/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/005/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/005/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/005/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/005/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/005/main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/006/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/006/.idea/006.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/006/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/006/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/006/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/006/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/006/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/006/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/006/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/006/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/006/cmake-build-debug/CMakeFiles/3.27.8/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/006/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/006/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/006/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/006/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/006/main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/007/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/007/.idea/007.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/007/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/007/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/007/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/007/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/007/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/007/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/007/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/007/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/007/cmake-build-debug/CMakeFiles/3.27.8/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/007/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/007/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/007/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/007/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/007/main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/008/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/008/.idea/008.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/008/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/008/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/008/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/008/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/008/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/008/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/008/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/008/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/008/cmake-build-debug/CMakeFiles/3.27.8/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/008/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/008/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/008/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/008/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第一次作业/008/main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/Circle.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/Circle.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/Circle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/Test.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/Test.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/cmake-build-debug/.cmake/api/v1/reply/cache-v2-3b2c39340a3eaa234b16.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-4712082bf77d64e3face.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-ac8f3a89e77f6bc32830.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/cmake-build-debug/.cmake/api/v1/reply/index-2024-03-02T07-47-46-0497.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/cmake-build-debug/.cmake/api/v1/reply/target-2-Debug-2124e19af9a84d49b578.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/cmake-build-debug/.cmake/api/v1/reply/target-Test-Debug-ae9e01a7f05b44580388.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-e2c1e3b756f3cd0e2aca.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/cmake-build-debug/1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/cmake-build-debug/2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/cmake-build-debug/CMakeFiles/1.dir/Circle.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/cmake-build-debug/CMakeFiles/1.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/cmake-build-debug/CMakeFiles/2.dir/Circle.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/cmake-build-debug/CMakeFiles/3.27.8/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/cmake-build-debug/CMakeFiles/3.27.8/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/cmake-build-debug/CMakeFiles/3.27.8/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/cmake-build-debug/CMakeFiles/3.27.8/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/cmake-build-debug/CMakeFiles/Test.dir/Test.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../练习/main.exe" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="3.2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2dGwaYYD0W6Ex2wbuyqi2rV4SiL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.main.cpp.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/projects/C++/Algorithm Design/Second/009",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "CMakeSettings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="009" TARGET_NAME="main.cpp" CONFIG_NAME="main.cpp">
+      <option name="sourceFile" value="main.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ File.main.cpp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d59fe755-e38d-4e22-a51d-18262fb8f192" name="Changes" comment="" />
+      <created>1709647786680</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709647786680</updated>
+      <workItem from="1709647787973" duration="1121000" />
+      <workItem from="1709648939605" duration="591000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
