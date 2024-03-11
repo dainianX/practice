@@ -23,52 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a87b427-d0ff-4f69-9c9b-038da882eecc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../作业/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/.idea/作业.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/cmake-build-debug-mingw/.cmake/api/v1/query/cache-v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/cmake-build-debug-mingw/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/cmake-build-debug-mingw/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/cmake-build-debug-mingw/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/cmake-build-debug-mingw/.cmake/api/v1/reply/cache-v2-8234af4ce8e1fdf693a7.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/cmake-build-debug-mingw/.cmake/api/v1/reply/cmakeFiles-v1-da89499cf5190a3aaf26.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/cmake-build-debug-mingw/.cmake/api/v1/reply/codemodel-v2-646a416d5d67bc6809ab.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/cmake-build-debug-mingw/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/cmake-build-debug-mingw/.cmake/api/v1/reply/index-2024-02-26T11-31-32-0675.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/cmake-build-debug-mingw/.cmake/api/v1/reply/target-1-Debug-585571ed22adec6db7d7.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/cmake-build-debug-mingw/.cmake/api/v1/reply/toolchains-v1-e2c1e3b756f3cd0e2aca.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/cmake-build-debug-mingw/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/cmake-build-debug-mingw/CMakeFiles/3.27.8/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/cmake-build-debug-mingw/CMakeFiles/3.27.8/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/cmake-build-debug-mingw/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/cmake-build-debug-mingw/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/cmake-build-debug-mingw/CMakeFiles/3.27.8/CMakeRCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/cmake-build-debug-mingw/CMakeFiles/3.27.8/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/cmake-build-debug-mingw/CMakeFiles/3.27.8/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/cmake-build-debug-mingw/CMakeFiles/3.27.8/CompilerIdC/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/cmake-build-debug-mingw/CMakeFiles/3.27.8/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/cmake-build-debug-mingw/CMakeFiles/3.27.8/CompilerIdCXX/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/cmake-build-debug-mingw/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/cmake-build-debug-mingw/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/cmake-build-debug-mingw/CMakeFiles/clion-Debug-MinGW-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/cmake-build-debug-mingw/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/cmake-build-debug-mingw/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/cmake-build-debug-mingw/CMakeFiles/rules.ninja" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/cmake-build-debug-mingw/build.ninja" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/cmake-build-debug-mingw/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/main.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业/main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithm Design/Second/014/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm Design/Second/014/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Test.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,33 +55,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;C/C++ File.Circle.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Test.cpp (1).executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Test.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.practice.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.1.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.2.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/projects/C++/练习/main.cpp&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;CMakeSettings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.Circle.cpp.executor": "Run",
+    "C/C++ File.Test.cpp (1).executor": "Run",
+    "C/C++ File.Test.cpp.executor": "Run",
+    "C/C++ File.practice.executor": "Run",
+    "CMake Application.1.executor": "Run",
+    "CMake Application.2.executor": "Run",
+    "CMake Application.Test.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/projects/C++/Algorithm Design/Solution Report",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "CMakeSettings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="C/C++ File.Test.cpp (1)">
     <configuration name="1" type="CMakeRunConfiguration" factoryName="Application" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Test" RUN_TARGET_NAME="1" EXPLICIT_BUILD_TARGET_NAME="all">
       <method v="2">
@@ -137,11 +94,6 @@
       </method>
     </configuration>
     <configuration name="Test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Test" TARGET_NAME="Test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Test" RUN_TARGET_NAME="Test">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -172,13 +124,13 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="C/C++ File.practice" />
-      <item itemvalue="C/C++ File.Test.cpp (1)" />
-      <item itemvalue="C/C++ File.Test.cpp" />
-      <item itemvalue="C/C++ File.Circle.cpp" />
+      <item itemvalue="CMake Application.1" />
       <item itemvalue="CMake Application.2" />
       <item itemvalue="CMake Application.Test" />
-      <item itemvalue="CMake Application.1" />
+      <item itemvalue="C/C++ File.Circle.cpp" />
+      <item itemvalue="C/C++ File.Test.cpp (1)" />
+      <item itemvalue="C/C++ File.Test.cpp" />
+      <item itemvalue="C/C++ File.practice" />
     </list>
     <recent_temporary>
       <list>
@@ -204,6 +156,8 @@
       <workItem from="1709190417326" duration="463000" />
       <workItem from="1709360579811" duration="8101000" />
       <workItem from="1709531700695" duration="1693000" />
+      <workItem from="1710124552667" duration="3468000" />
+      <workItem from="1710146099914" duration="23000" />
     </task>
     <servers />
   </component>

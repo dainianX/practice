@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "PsvcvD0dTNZJ8Jykzs667wRxurpGhg/LwL9GW3xH1JV0ZeraYKEufaKJ/7Gnx6J14OKaEBnhiIoj0xvBjsewKg==",
+  "success": true,
+  "projectFilePath": "E:\\projects\\C#\\Tri\\Tri\\Tri.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: The SSL connection could not be established, see inner exception."
+    }
+  ]
+}

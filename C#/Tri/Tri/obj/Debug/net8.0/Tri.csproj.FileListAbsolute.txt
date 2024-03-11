@@ -1,0 +1,15 @@
+E:\projects\C#\Tri\Tri\bin\Debug\net8.0\Tri.exe
+E:\projects\C#\Tri\Tri\bin\Debug\net8.0\Tri.deps.json
+E:\projects\C#\Tri\Tri\bin\Debug\net8.0\Tri.runtimeconfig.json
+E:\projects\C#\Tri\Tri\bin\Debug\net8.0\Tri.dll
+E:\projects\C#\Tri\Tri\bin\Debug\net8.0\Tri.pdb
+E:\projects\C#\Tri\Tri\obj\Debug\net8.0\Tri.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\C#\Tri\Tri\obj\Debug\net8.0\Tri.AssemblyInfoInputs.cache
+E:\projects\C#\Tri\Tri\obj\Debug\net8.0\Tri.AssemblyInfo.cs
+E:\projects\C#\Tri\Tri\obj\Debug\net8.0\Tri.csproj.CoreCompileInputs.cache
+E:\projects\C#\Tri\Tri\obj\Debug\net8.0\Tri.sourcelink.json
+E:\projects\C#\Tri\Tri\obj\Debug\net8.0\Tri.dll
+E:\projects\C#\Tri\Tri\obj\Debug\net8.0\refint\Tri.dll
+E:\projects\C#\Tri\Tri\obj\Debug\net8.0\Tri.pdb
+E:\projects\C#\Tri\Tri\obj\Debug\net8.0\Tri.genruntimeconfig.cache
+E:\projects\C#\Tri\Tri\obj\Debug\net8.0\ref\Tri.dll
