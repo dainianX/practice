@@ -1,13 +1,9 @@
 //
 // Created by Administrator on 2024-03-12.
 //
-#include <iostream>
-#include <string>
-using namespace std;
 
 #ifndef INC_3_DATE_H
 #define INC_3_DATE_H
-
 
 class Date {
 private:
