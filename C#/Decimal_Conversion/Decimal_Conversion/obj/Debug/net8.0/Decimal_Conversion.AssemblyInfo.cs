@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Decimal_Conversion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c410974baba99c1cb2f10a667d14091a0c09c850")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+065d393991ea82eb4845536eb46b14399d63be56")]
 [assembly: System.Reflection.AssemblyProductAttribute("Decimal_Conversion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Decimal_Conversion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

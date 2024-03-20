@@ -8,7 +8,6 @@
 	{
 		a3[j + a1.Length] = a2[j];
 	}
-	;
 	Array.Sort(a3);
 	return a3;
 }
