@@ -1,0 +1,6 @@
+E:\projects\C#\TimeRefactor\TimeRefactor\TimeRefactor\bin\Debug\TimeRefactor.exe
+E:\projects\C#\TimeRefactor\TimeRefactor\TimeRefactor\bin\Debug\TimeRefactor.pdb
+E:\projects\C#\TimeRefactor\TimeRefactor\TimeRefactor\obj\Debug\TimeRefactor.csproj.AssemblyReference.cache
+E:\projects\C#\TimeRefactor\TimeRefactor\TimeRefactor\obj\Debug\TimeRefactor.csproj.CoreCompileInputs.cache
+E:\projects\C#\TimeRefactor\TimeRefactor\TimeRefactor\obj\Debug\TimeRefactor.exe
+E:\projects\C#\TimeRefactor\TimeRefactor\TimeRefactor\obj\Debug\TimeRefactor.pdb

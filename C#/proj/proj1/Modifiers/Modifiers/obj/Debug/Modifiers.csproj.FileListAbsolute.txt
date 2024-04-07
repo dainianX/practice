@@ -1,0 +1,2 @@
+E:\projects\C#\实验\实验一\Modifiers\Modifiers\obj\Debug\Modifiers.csproj.AssemblyReference.cache
+E:\projects\C#\实验\实验一\Modifiers\Modifiers\obj\Debug\Modifiers.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+E:\projects\C#\readonly\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\projects\C#\readonly\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\projects\C#\readonly\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.AssemblyReference.cache
+E:\projects\C#\readonly\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+E:\projects\C#\readonly\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\projects\C#\readonly\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

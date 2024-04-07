@@ -1,0 +1,10 @@
+E:\projects\C#\Singleton\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\projects\C#\Singleton\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\projects\C#\Singleton\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\projects\C#\Singleton\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\projects\C#\Singleton\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\projects\C#\Singleton\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\projects\C#\Singleton\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\projects\C#\Singleton\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\projects\C#\Singleton\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\projects\C#\Singleton\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
