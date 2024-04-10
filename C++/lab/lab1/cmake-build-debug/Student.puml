@@ -1,0 +1,13 @@
+@startuml
+
+class Student {
+    - id: int
+    - name: string
+    - courses: array<Course, 3>
+    + Student(int id, string name)
+    + getSno(): int
+    + getAllCourses(): array<Course, 3>
+    + setGradeForCourse(int courseIndex, int grade): void
+}
+
+@enduml
