@@ -1,4 +1,0 @@
-E:/projects/C++/练习/cmake-build-debug/CMakeFiles/2.dir
-E:/projects/C++/练习/cmake-build-debug/CMakeFiles/Test.dir
-E:/projects/C++/练习/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/projects/C++/练习/cmake-build-debug/CMakeFiles/rebuild_cache.dir

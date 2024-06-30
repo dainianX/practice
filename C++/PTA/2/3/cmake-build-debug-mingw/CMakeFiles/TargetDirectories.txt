@@ -1,3 +1,0 @@
-E:/projects/C++/PTA/2/3/cmake-build-debug-mingw/CMakeFiles/3.dir
-E:/projects/C++/PTA/2/3/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
-E:/projects/C++/PTA/2/3/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
